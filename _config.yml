@@ -1,7 +1,7 @@
 name: irfannadiadi
 favicon: null
-layout_spectrum: 0.7598278450313956
-typography_spectrum: 0.8725742737296969
+layout_spectrum: 0.50291
+typography_spectrum: 0.362
 title: Irfan Nadiadi
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7155991308391094
+    - '#040605'
+    - '#4f7791'
+    - '#b2c3d3'
+    - '#dde4ec'
+    - '#2f4050'
+  brandStrength: 0.75
   lightness: 0.3535461826249957
   saturation: 0.6338243139907718
   rhythmicContrast: 0.8642933175433427
