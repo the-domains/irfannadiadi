@@ -1,0 +1,28 @@
+name: irfannadiadi
+favicon: null
+layout_spectrum: 0.7598278450313956
+typography_spectrum: 0.8725742737296969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7155991308391094
+  lightness: 0.3535461826249957
+  saturation: 0.6338243139907718
+  rhythmicContrast: 0.8642933175433427
+purpose: []
